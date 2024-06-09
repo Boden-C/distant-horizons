@@ -12,4 +12,4 @@ LOD files for Distant Horizons alpha 2.1 ONLY
 - `.minecraft/Distant_Horizons_server_data/SERVER_NAME/`
 
 ## Included
-- Wynncraft v2.0 (based on [Throwneb's files](https://forums.wynncraft.com/threads/distant-horizons-v2-lod-files-for-wynncraft-map.315647/))
+- [Wynncraft](https://wynncraft.com/) 2.0 for DH a2.1 [[DOWNLOAD](../..//releases/tag/v1.0)] (based on [Throwneb's files](https://forums.wynncraft.com/threads/distant-horizons-v2-lod-files-for-wynncraft-map.315647/) updated to DH a2.1, use their post for instructions)
