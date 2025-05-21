@@ -21,7 +21,7 @@ Archivos LOD de muchos mapas populares para Distant Horizons alpha 2.1+
 
 | Mundo | Versión del Mundo | Versión DH | Descargar | Comentarios | Versión de Descarga |
 | --- | --- | --- | --- | --- | --- |
-| [Wynncraft](https://wynncraft.com/) | 2.1 Bonfire | a2.1+ | [suspicious link removed] | Basado en los [archivos de Throwneb](https://forums.wynncraft.com/threads/distant-horizons-v2-lod-files-for-wynncraft-map.315647/) actualizados a DH a2.1, usa su publicación para instrucciones | wynn1.2
+| [Wynncraft](https://wynncraft.com/) | 2.1 Bonfire | a2.1+ | [DESCARGAR](../..//releases/tag/wynn1.2) | Basado en los [archivos de Throwneb](https://forums.wynncraft.com/threads/distant-horizons-v2-lod-files-for-wynncraft-map.315647/) actualizados a DH a2.1, usa su publicación para instrucciones | wynn1.2
 | [Drehmal](https://www.drehmal.net/) | 2.2 Apotheosis | a2.1+ | [DESCARGAR](https://drive.usercontent.google.com/download?id=1Sb9k6IC0z-qu6gNy28mX8cEyvjd_ovQr&export=download&authuser=0) | Proporcionado por Kofi en el Discord de Drehmal | external
 | [Middle Earth](https://www.mcmiddleearth.com/) | Julio 2024 | a2.1+ | [DESCARGAR](https://www.mcmiddleearth.com/community/resources/distant-horizons-base.170/download) | [Instrucciones](https://www.mcmiddleearth.com/community/resources/distant-horizons-lods.171/) Proporcionado por Feuerdrache0 | external
 
